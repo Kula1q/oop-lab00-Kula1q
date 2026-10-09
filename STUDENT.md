@@ -10,12 +10,12 @@
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```Hello from C++! autor: Kula1q
-...
 ```
-Wynik programu Java: st
-```Hello from Java! autor: Kula1q
-...
+Hello from C++! autor: Kula1q
+```
+Wynik programu Java: 
+```
+Hello from Java! autor: Kula1q
 ```
 
 ## Błąd i poprawka (zadanie 5)
@@ -30,4 +30,4 @@ Wynik programu Java: st
 3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Potwierdza poprawną kompilacje kodu, nie oznacza bezbłędności kodu
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak / opis problemu i sposób rozwiązania: mały problem pomiędzy terminalem w Visual Studio Code i WSL
